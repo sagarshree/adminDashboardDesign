@@ -530,7 +530,7 @@ transition: all 300ms ease;
 .right .sales-analytics .add-product div{
     display: flex;
     align-items: center;
-    gap: 0.9rem;
+    gap: 0.89rem;
 }
 
 
